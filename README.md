@@ -1,3 +1,5 @@
 # nyt-crossword-difficulty
 
-Fetch the relative difficulty of a nyt crossword puzzle without spoiling the puzzle.
+quick tool to check the difficulty rating of an nyt crossword from the archive without spoiling the puzzle
+
+https://nyt-crossword-difficulty.streamlit.app/
