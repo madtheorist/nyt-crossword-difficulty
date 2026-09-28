@@ -1,2 +1,3 @@
 # nyt-crossword-difficulty
-Fetch difficulty of NYT crosswords without spoilers
+
+fetch the relative difficulty of a nyt crossword puzzle without spoiling the puzzle
